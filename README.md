@@ -2,7 +2,7 @@
 
 ## Membros da Equipe
 - Ylson dos Santos Queiroz Filho - @YlsonSantos
-- Matheus Rian de Souza Silva - @
+- Matheus Rian de Souza Silva - @Matheus-Rian
 - Gabriel Victor de Melo Reis - @gabrielvictor00
 
 ## Disciplina
@@ -15,7 +15,4 @@ CESAR School
 [Repositório no GitHub](https://github.com/YlsonSantos/Projeto-C.git)
 
 ## Instruções para Compilar e Executar o Jogo
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/YlsonSantos/Projeto-C.git
-   cd Projeto-C
+
